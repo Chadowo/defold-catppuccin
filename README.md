@@ -1,5 +1,12 @@
 # Defold Catppuccin
 
+<p align="center">
+  <img src="docs/media/latte_screenshot.png" alt="Latte screenshot">
+  <img src="docs/media/frappe_screenshot.png" alt="Frappe screenshot">
+  <img src="docs/media/macchiato_screenshot.png" alt="Macchiato screenshot">
+  <img src="docs/media/mocha_screenshot.png" alt="Mocha screenshot">
+</p>
+
 [Catpuccin](https://github.com/catppuccin) theme for the Defold editor.
 
 ## Usage
