@@ -1,0 +1,62 @@
+* {
+	/* Background 
+	 * color: base
+	 */
+	-df-background-darker:     derive(#303446, -20%);
+	-df-background-dark:       derive(#303446, -10%);
+	-df-background: 		   #303446;
+	-df-background-light:      derive(#303446, 10%);
+	-df-background-lighter:    derive(#303446, 20%);
+
+    /* Component 
+     * color: surface1
+     */
+	-df-component-darker:      derive(#51576d, -20%);
+	-df-component-dark:        derive(#51576d, -10%);
+	-df-component:             #51576d;
+	-df-component-light:       derive(#51576d, 10%);
+	-df-component-lighter:     derive(#51576d, 20%);
+
+    /* Text and icons */
+    -df-text-darker:           derive(#c6d0f5, -20%);
+	-df-text-dark:             derive(#c6d0f5, -10%);
+	-df-text:				   #c6d0f5;
+	-df-text-selected:         derive(#c6d0f5, 20%);
+
+	/* Red */
+	-df-defold-red-dark:       derive(#e78284, -10%);
+	-df-defold-red:        	   #e78284;
+	-df-defold-red-light:      derive(#e78284, 10%);
+	-df-defold-red-lighter:    derive(#e78284, 20%);
+
+	/* Yellow */
+	-df-defold-yellow-dark:    derive(#e5c890, -10%);
+	-df-defold-yellow:         #e5c890;
+	-df-defold-yellow-light:   derive(#e5c890, 10%);
+	-df-defold-yellow-lighter: derive(#e5c890, 20%);
+
+	/* Green */
+	-df-defold-green-dark:     derive(#a6d189, -10%);
+	-df-defold-green:          #a6d189;
+	-df-defold-green-light:    derive(#a6d189, 10%);
+	-df-defold-green-lighter:  derive(#a6d189, 20%);
+
+	/* Orange */
+	-df-defold-orange-dark:    derive(#ef9f76, -10%);
+	-df-defold-orange:         #ef9f76;
+	-df-defold-orange-light:   derive(#ef9f76, 10%);
+	-df-defold-orange-lighter: derive(#ef9f76, 20%);
+
+	/* Blue */
+	-df-defold-blue-dark:      derive(#8caaee, -10%);
+	-df-defold-blue:           #8caaee;
+	-df-defold-blue-light:     derive(#8caaee, 10%);
+	-df-defold-blue-lighter:   derive(#8caaee, 20%);
+
+	/* Status colors */
+	-df-error-severity-fatal: -df-defold-red;
+	-df-error-severity-fatal-dim: -df-defold-red-dark;
+	-df-error-severity-warning: -df-defold-yellow;
+	-df-error-severity-warning-dim: -df-defold-yellow-dark;
+	-df-error-severity-info: -df-defold-yellow-lighter;
+}
