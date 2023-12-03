@@ -8,7 +8,7 @@
      */
     -df-background-darker:     derive(#dce0e8, -20%);
     -df-background-dark:       derive(#dce0e8, -10%);
-    -df-background:               #dce0e8;
+    -df-background:            #dce0e8;
     -df-background-light:      derive(#dce0e8, 20%);
     -df-background-lighter:    derive(#dce0e8, 25%);
 
@@ -26,7 +26,7 @@
     /* Text and icons */
     -df-text-darker:           derive(#4c4f69, -20%);
     -df-text-dark:             derive(#4c4f69, -10%);
-    -df-text:                     #4c4f69;
+    -df-text:                  #4c4f69;
     -df-text-selected:         derive(#4c4f69, 20%);
 
     /* Red */
