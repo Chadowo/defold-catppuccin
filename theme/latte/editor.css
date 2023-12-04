@@ -2,9 +2,8 @@
     /* Background 
      * color: crust
      * NOTE: Ampliefied the percentage of the light 
-     *       and lighter background because otherwise
-     *       it'll blend too much with the component
-     *       color
+     *       and lighter background to make a better
+     *       contrast
      */
     -df-background-darker:     derive(#dce0e8, -20%);
     -df-background-dark:       derive(#dce0e8, -10%);
