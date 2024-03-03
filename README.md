@@ -7,14 +7,14 @@
   <img src="docs/media/mocha_screenshot.png" alt="Mocha screenshot">
 </p>
 
-[Catpuccin](https://github.com/catppuccin) theme for the Defold editor.
+[Catpuccin](https://github.com/catppuccin) theme for the [Defold](https://defold.com/) editor.
 
 ## Usage
 
 Create a folder named `.defold` in your user home directory if it isn't already.
 
 - On Windows: `C:\Users\Your Username\.defold`
-- On macOS: `/Users/Your Username/.defold`
+- On MacOS: `/Users/Your Username/.defold`
 - On Linux: `~/.defold`
 
 Move the `editor.css` file of your theme of choice there. Then restart the editor or
