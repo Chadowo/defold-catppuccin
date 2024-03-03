@@ -22,4 +22,4 @@ reload the stylesheet (**Help** → **Reload Stylesheet**).
 
 ## License
 
-This theme is licensed under the MIT license.
+This theme is licensed under the [MIT license](LICENSE).
